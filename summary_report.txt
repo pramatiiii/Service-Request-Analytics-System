@@ -1,0 +1,28 @@
+====================================================
+      SERVICE REQUEST ANALYTICS REPORT
+====================================================
+  Generated : 2026-06-08 18:36:55
+
+  OVERVIEW
+  Total Requests        : 500
+
+  STATUS BREAKDOWN
+    Open                : 120
+    In Progress         : 98
+    Completed           : 282
+
+  PRIORITY BREAKDOWN
+    High                : 152
+    Medium              : 204
+    Low                 : 144
+
+  Avg Resolution Time   : 24.7 Hours
+
+  TOP 5 FAILURE CATEGORIES
+    1. Pneumatic              (75 occurrences)
+    2. Structural             (69 occurrences)
+    3. Mechanical             (65 occurrences)
+    4. Lubrication            (63 occurrences)
+    5. Electrical             (61 occurrences)
+
+====================================================

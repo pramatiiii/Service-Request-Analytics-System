@@ -1,0 +1,501 @@
+SR_ID,Asset_ID,Customer_Name,Machine_Type,Reported_Date,Priority,Status,Technician,Resolution_Time_Hours,Failure_Category
+SR001,AST073,Warrior-Sachar,Lathe Machine,2026-04-02,Medium,Completed,Rachana Bose,27,Structural
+SR002,AST028,"Bhargava, Bhavsar and Hari",Hydraulic Press,2025-06-30,Medium,Completed,Vasatika Nayar,27,Software
+SR003,AST048,"Korpal, Lall and Nagi",Conveyor Belt,2025-11-30,Medium,Open,Rachita Kade,0,Software
+SR004,AST083,Rana Ltd,Conveyor Belt,2025-06-22,High,Completed,Abha Kohli,3,Lubrication
+SR005,AST039,Sahni Ltd,Drilling Machine,2026-01-31,Low,Completed,Ira Mahajan,63,Pneumatic
+SR006,AST088,Toor-Patla,Lathe Machine,2026-06-07,Medium,Completed,Michael Pandey,24,Lubrication
+SR007,AST078,Vaidya LLC,Milling Machine,2025-12-14,High,In Progress,Harini Om,0,Mechanical
+SR008,AST056,"Mani, Barad and Kashyap",Lathe Machine,2026-03-31,Medium,Completed,Orinder Thakkar,19,Lubrication
+SR009,AST086,Randhawa-Sharaf,CNC Machine,2025-08-21,Medium,In Progress,Bhavika Modi,0,Structural
+SR010,AST087,Mutti-Bawa,Hydraulic Press,2026-03-23,Medium,In Progress,Gaurang Minhas,0,Electrical
+SR011,AST089,"Soman, Mahajan and Dara",Robotic Arm,2025-10-24,Medium,Completed,Onkar Vohra,10,Mechanical
+SR012,AST076,"Yohannan, Bajwa and Karnik",Hydraulic Press,2025-06-08,Low,Completed,Nimrat Shetty,21,Software
+SR013,AST046,Patla Inc,Hydraulic Press,2026-05-04,Medium,Open,Reva Mody,0,Mechanical
+SR014,AST055,"Aurora, Srinivas and Wable",Robotic Arm,2026-04-28,High,Completed,Jeevika Gole,11,Pneumatic
+SR015,AST084,"Hari, Thakkar and Kothari",Conveyor Belt,2025-09-11,Low,Completed,Raghav Hari,54,Software
+SR016,AST078,Deol-Som,Drilling Machine,2026-03-19,Low,Completed,Vedhika Pandey,18,Sensor
+SR017,AST068,"Varughese, Sarkar and Gulati",Drilling Machine,2026-04-27,Medium,Open,Dakshesh Garde,0,Structural
+SR018,AST054,Madan PLC,Hydraulic Press,2025-09-30,Low,Completed,Bhanumati Mody,48,Structural
+SR019,AST004,Madan-Bumb,Welding Machine,2026-05-23,Low,Completed,Utkarsh Pai,52,Sensor
+SR020,AST012,"Date, Gill and Shenoy",Milling Machine,2025-11-22,Low,In Progress,Barkha Bains,0,Software
+SR021,AST075,"Khatri, Andra and Gole",Robotic Arm,2025-08-15,Medium,Completed,Urvi Aggarwal,24,Hydraulic
+SR022,AST095,Dara LLC,Hydraulic Press,2026-02-28,Low,Open,Jason Sodhi,0,Mechanical
+SR023,AST029,Viswanathan Inc,Milling Machine,2026-04-27,Low,In Progress,Ekaraj Kaur,0,Pneumatic
+SR024,AST081,"Narasimhan, Khare and Sathe",CNC Machine,2025-06-19,Medium,Completed,Upma Mallick,31,Software
+SR025,AST028,"Bhargava, Parsa and Kadakia",CNC Machine,2026-01-01,Low,Completed,Harish Lall,51,Sensor
+SR026,AST077,"Datta, Varkey and Krishnan",Conveyor Belt,2026-04-01,High,Completed,Anusha Garde,16,Sensor
+SR027,AST012,"Mani, Pant and Dass",Conveyor Belt,2025-06-25,Medium,Open,Bhavika Parekh,0,Lubrication
+SR028,AST095,Chad-Vyas,Conveyor Belt,2025-06-15,High,Completed,Ishanvi Agate,4,Lubrication
+SR029,AST063,Sarraf-Bal,CNC Machine,2025-06-25,Medium,Completed,William Nair,13,Structural
+SR030,AST090,"Handa, Oak and Raj",Drilling Machine,2025-07-25,Medium,Completed,Ekalinga Gaba,31,Structural
+SR031,AST070,Oak Inc,CNC Machine,2026-04-03,Low,Completed,Madhav Rama,42,Mechanical
+SR032,AST063,"Khare, Chatterjee and Bedi",Drilling Machine,2025-08-19,Low,Open,Yashvi Kara,0,Hydraulic
+SR033,AST087,"Bedi, Padmanabhan and Nayak",Drilling Machine,2025-11-06,Medium,Open,Warhi Kar,0,Pneumatic
+SR034,AST065,Kulkarni-Chatterjee,CNC Machine,2026-06-03,Medium,Completed,Tara Borde,31,Pneumatic
+SR035,AST030,Memon PLC,Conveyor Belt,2025-11-19,High,Completed,Karan Pillai,16,Lubrication
+SR036,AST055,Dass and Sons,Lathe Machine,2025-11-10,High,Open,Ekani Goyal,0,Electrical
+SR037,AST040,Pandya-Apte,Drilling Machine,2026-05-23,Medium,Open,Harrison Bala,0,Lubrication
+SR038,AST072,Bahri Ltd,Robotic Arm,2026-04-19,High,Open,Atharv Ben,0,Pneumatic
+SR039,AST028,"Mangal, Madan and Mander",Conveyor Belt,2025-08-24,Low,Completed,Isaiah Dora,52,Pneumatic
+SR040,AST066,"Deep, Varma and Munshi",Milling Machine,2025-06-28,Medium,In Progress,Lajita Bakshi,0,Pneumatic
+SR041,AST047,Kamdar Group,CNC Machine,2025-12-12,High,In Progress,Falak Mand,0,Software
+SR042,AST072,"Kibe, Rege and Gera",Lathe Machine,2025-09-01,High,Completed,Nilima Saran,13,Lubrication
+SR043,AST033,"Jaggi, Sheth and Kaur",Hydraulic Press,2026-01-12,Medium,In Progress,Xavier Barad,0,Hydraulic
+SR044,AST094,Wagle Inc,CNC Machine,2025-08-08,Medium,Completed,Vyanjana Dubey,11,Sensor
+SR045,AST015,Sahni-Badal,Conveyor Belt,2025-09-06,High,Open,Daniel Loyal,0,Structural
+SR046,AST062,Pai-Gole,Lathe Machine,2026-04-16,Medium,Completed,Irya Baral,25,Electrical
+SR047,AST082,Barad Ltd,Hydraulic Press,2025-12-16,High,Completed,Falguni Subramanian,13,Pneumatic
+SR048,AST004,"Ganesan, Dasgupta and Krishnan",Hydraulic Press,2025-09-26,Medium,In Progress,Pahal Barad,0,Hydraulic
+SR049,AST040,Khalsa-Iyengar,CNC Machine,2026-04-14,Medium,Completed,Anamika Ramachandran,10,Pneumatic
+SR050,AST093,Wable Group,Lathe Machine,2026-04-15,Low,Completed,Tarak Chada,41,Mechanical
+SR051,AST027,"Parmar, Chopra and Mandal",Lathe Machine,2026-06-04,High,Completed,Ishani Dora,14,Mechanical
+SR052,AST093,Handa Inc,Hydraulic Press,2026-05-09,Medium,Open,Luke Chawla,0,Lubrication
+SR053,AST012,"Choudhary, Sampath and Wadhwa",Drilling Machine,2025-11-16,Medium,In Progress,Daniel Munshi,0,Structural
+SR054,AST076,"Kala, Vohra and Kant",CNC Machine,2026-05-29,Low,Completed,Xalak Saini,19,Sensor
+SR055,AST097,Goda-Pandya,Welding Machine,2026-01-24,Medium,Completed,Janaki Kant,17,Lubrication
+SR056,AST056,Agarwal LLC,Lathe Machine,2025-10-25,Medium,Completed,Shaurya Pal,27,Lubrication
+SR057,AST043,"Chana, Krishna and Bandi",Lathe Machine,2026-05-29,Low,Completed,Manbir Lala,33,Pneumatic
+SR058,AST077,Goda-Chana,Robotic Arm,2026-02-11,High,Open,Lopa Choudhry,0,Electrical
+SR059,AST095,Loyal and Sons,CNC Machine,2026-06-06,Low,Completed,Panini Lalla,36,Structural
+SR060,AST071,Parikh Ltd,Milling Machine,2026-02-26,Medium,In Progress,Om Pau,0,Sensor
+SR061,AST075,Pant Group,Hydraulic Press,2025-12-23,High,In Progress,Aadi Loke,0,Mechanical
+SR062,AST074,"Dixit, Raja and Dar",Welding Machine,2026-02-02,Low,In Progress,Harinakshi Kumar,0,Lubrication
+SR063,AST072,Mannan Inc,Lathe Machine,2025-08-12,Medium,Completed,Qasim Dyal,17,Lubrication
+SR064,AST047,Vohra and Sons,Welding Machine,2026-03-31,High,Completed,Avi Thaman,15,Lubrication
+SR065,AST044,Din Group,Drilling Machine,2025-07-26,Medium,In Progress,Thomas Narula,0,Software
+SR066,AST058,"Toor, Warrior and Prabhu",Milling Machine,2025-06-10,Low,In Progress,Nitara Kannan,0,Software
+SR067,AST092,Tripathi-Ahluwalia,CNC Machine,2025-11-17,Medium,Open,Harsh Chada,0,Software
+SR068,AST031,Sawhney PLC,Robotic Arm,2025-10-20,High,Open,Wyatt Walia,0,Sensor
+SR069,AST065,Garg Ltd,Robotic Arm,2025-11-18,High,In Progress,Gavin Varty,0,Sensor
+SR070,AST066,Brahmbhatt-Bala,CNC Machine,2026-05-08,High,Completed,Hritik Rattan,7,Pneumatic
+SR071,AST074,"Balakrishnan, Walia and Chana",Milling Machine,2025-12-05,High,Completed,Ijaya Sinha,2,Structural
+SR072,AST036,"Amble, Narasimhan and Sahni",Hydraulic Press,2025-07-11,Medium,In Progress,Geetika Choudhry,0,Structural
+SR073,AST040,Jayaraman-Thakur,Conveyor Belt,2025-10-03,Low,Completed,Damyanti Kulkarni,30,Electrical
+SR074,AST063,Thakkar-Mani,Welding Machine,2025-12-29,High,Open,Udant Samra,0,Structural
+SR075,AST062,Shan-Krishnan,Hydraulic Press,2026-04-16,Medium,In Progress,Unni Naik,0,Lubrication
+SR076,AST072,"Kunda, Singh and Ravi",Hydraulic Press,2025-10-03,High,Open,Garima Bajwa,0,Lubrication
+SR077,AST036,Talwar-Mahal,Hydraulic Press,2025-11-27,Low,Completed,Avi Madan,60,Lubrication
+SR078,AST018,Mani-Nadkarni,Conveyor Belt,2025-08-08,Low,In Progress,Bhavya Dani,0,Structural
+SR079,AST050,"Shere, Gera and Bansal",CNC Machine,2026-03-09,Medium,Completed,Kamya Sachar,34,Sensor
+SR080,AST062,Handa Group,Lathe Machine,2026-04-17,High,In Progress,Anita Badal,0,Structural
+SR081,AST077,"Varughese, Kar and Solanki",Drilling Machine,2025-10-01,Medium,Open,Orinder Rai,0,Structural
+SR082,AST064,Kapadia PLC,Robotic Arm,2026-01-24,Medium,Open,Nicholas Tak,0,Lubrication
+SR083,AST037,"Chanda, Krish and Sibal",Robotic Arm,2025-10-24,High,Open,Rachita Bal,0,Pneumatic
+SR084,AST019,"Parikh, Goyal and Agarwal",Hydraulic Press,2025-12-30,Low,Completed,Kavya Jayaraman,51,Mechanical
+SR085,AST049,Nagar Ltd,Robotic Arm,2025-11-06,High,Completed,Indali Sathe,11,Software
+SR086,AST030,Raman-Narain,Drilling Machine,2025-12-02,Medium,Completed,Qushi Chokshi,9,Hydraulic
+SR087,AST094,Modi Ltd,Welding Machine,2025-06-14,High,Completed,Geetika Swaminathan,7,Mechanical
+SR088,AST084,Pant-Ramaswamy,Lathe Machine,2025-09-09,High,Completed,Ansh Sridhar,13,Lubrication
+SR089,AST017,"Deshpande, Kari and Sarin",CNC Machine,2026-05-03,High,Completed,Idika Babu,16,Structural
+SR090,AST018,Dhillon Inc,CNC Machine,2025-11-01,High,Completed,Triya Shetty,12,Lubrication
+SR091,AST075,Johal-Lal,CNC Machine,2026-05-28,Medium,Completed,Chavvi Sagar,12,Pneumatic
+SR092,AST018,Pai Inc,Welding Machine,2026-02-24,Low,Completed,Priya Nanda,57,Sensor
+SR093,AST042,"Dubey, Bir and Sha",Lathe Machine,2026-02-02,Low,Completed,Tristan Bawa,68,Pneumatic
+SR094,AST059,Balay-Vyas,Welding Machine,2026-02-26,High,Open,Agastya Keer,0,Mechanical
+SR095,AST018,"Gole, Edwin and Sastry",Hydraulic Press,2025-09-29,High,In Progress,Omya Khosla,0,Electrical
+SR096,AST087,"Sawhney, Varty and Natarajan",Welding Machine,2025-09-06,Low,Completed,Xavier Konda,65,Mechanical
+SR097,AST016,Gade-Talwar,Hydraulic Press,2025-06-20,Medium,Open,Owen Rege,0,Mechanical
+SR098,AST093,Bir PLC,Lathe Machine,2026-02-21,High,Completed,Avi Hayre,15,Electrical
+SR099,AST044,Deshpande-Saran,Conveyor Belt,2026-01-27,Low,Completed,Gunbir Borah,56,Hydraulic
+SR100,AST022,"Devan, Kurian and Dugal",Hydraulic Press,2025-06-17,Medium,Completed,Leena Tata,17,Structural
+SR101,AST004,Shere PLC,CNC Machine,2026-03-07,High,Completed,Pavani Prasad,9,Lubrication
+SR102,AST094,Saraf-Agarwal,Conveyor Belt,2025-09-05,High,Completed,Chaitaly Roy,9,Structural
+SR103,AST056,"Oommen, Sani and Sahni",Drilling Machine,2025-10-12,High,Completed,Advay Pandya,16,Software
+SR104,AST020,"Kumar, Barman and Sha",Welding Machine,2025-12-19,Medium,Completed,Anjali Kar,18,Pneumatic
+SR105,AST075,"Yohannan, Chaudhari and Walia",Hydraulic Press,2026-02-03,Low,Completed,Udant Bava,21,Software
+SR106,AST009,"Mukhopadhyay, Bains and Dyal",Robotic Arm,2026-03-20,Low,Completed,Ojasvi Srivastava,69,Lubrication
+SR107,AST050,Thaman-Chokshi,CNC Machine,2025-10-09,Medium,Completed,Krishna Mutti,31,Mechanical
+SR108,AST051,Babu-Mahajan,Drilling Machine,2025-07-21,Low,In Progress,Nirja Palla,0,Mechanical
+SR109,AST054,Saraf and Sons,Conveyor Belt,2026-03-30,Low,Completed,Patrick Chadha,48,Mechanical
+SR110,AST051,Banik PLC,Lathe Machine,2025-09-29,Low,In Progress,Bhanumati Deo,0,Pneumatic
+SR111,AST032,"Dave, Agarwal and Chaudry",Conveyor Belt,2025-08-24,Medium,Completed,Adweta Sengupta,12,Mechanical
+SR112,AST014,"Memon, Biswas and Mody",CNC Machine,2026-04-21,Medium,Open,Warhi Ramanathan,0,Sensor
+SR113,AST094,Seth PLC,CNC Machine,2025-09-16,High,Completed,Reva Chaudry,12,Mechanical
+SR114,AST073,Lala Inc,Robotic Arm,2026-02-24,Low,Completed,Atharv Rout,33,Lubrication
+SR115,AST090,Banik PLC,Drilling Machine,2025-09-18,Low,In Progress,Aachal Sundaram,0,Hydraulic
+SR116,AST096,Prabhu Inc,Welding Machine,2025-07-26,High,Open,Vasatika Sheth,0,Electrical
+SR117,AST082,Dugar Ltd,Hydraulic Press,2025-11-30,Low,In Progress,Edhitha Sarin,0,Hydraulic
+SR118,AST007,"Bhakta, Ahluwalia and Dara",Hydraulic Press,2025-12-31,Low,In Progress,Leena Johal,0,Hydraulic
+SR119,AST026,Madan-Dube,Milling Machine,2025-12-08,Medium,Completed,Jairaj Korpal,28,Electrical
+SR120,AST039,Rajagopal-Khanna,CNC Machine,2025-06-15,Low,Completed,Ishani Shroff,18,Structural
+SR121,AST093,Kannan Group,Drilling Machine,2025-11-29,Medium,Completed,Girik Gupta,20,Lubrication
+SR122,AST023,Dutta Inc,Welding Machine,2026-02-04,Low,Completed,Bishakha Bahri,52,Mechanical
+SR123,AST058,Sachdeva-Prasad,Drilling Machine,2025-08-05,Medium,Open,Vanya Madan,0,Lubrication
+SR124,AST064,Narasimhan-Dhar,Conveyor Belt,2025-12-26,High,Open,Chanakya Chandra,0,Structural
+SR125,AST083,Bawa-Khare,Milling Machine,2025-12-19,High,Completed,Om Rajan,2,Mechanical
+SR126,AST069,Chander Inc,Robotic Arm,2026-04-07,Medium,Completed,Panini Loke,17,Software
+SR127,AST013,Parsa Inc,CNC Machine,2026-05-07,Low,Completed,Shravya Shenoy,70,Sensor
+SR128,AST008,Karan-Majumdar,CNC Machine,2026-04-09,Low,Completed,Abhiram Wali,54,Mechanical
+SR129,AST056,"Saran, Dyal and Shah",Robotic Arm,2025-07-16,High,Completed,Yachana Chadha,10,Hydraulic
+SR130,AST079,"Chaudhary, Bandi and Sanghvi",CNC Machine,2025-09-16,Medium,Completed,Hamsini Thaman,33,Mechanical
+SR131,AST060,Kulkarni-Vora,Conveyor Belt,2025-10-30,High,Completed,Anusha Chowdhury,9,Pneumatic
+SR132,AST084,Banerjee-Mistry,Welding Machine,2025-08-29,Low,Completed,Ganga Sama,42,Software
+SR133,AST091,Nair PLC,CNC Machine,2025-11-26,Low,Completed,Nathan Dasgupta,17,Pneumatic
+SR134,AST069,Mittal Ltd,CNC Machine,2025-10-16,Low,Completed,Zashil Mohan,24,Hydraulic
+SR135,AST078,Bail-Aggarwal,Welding Machine,2026-05-03,High,In Progress,Yash Bhatia,0,Hydraulic
+SR136,AST019,Ranganathan-Chana,CNC Machine,2026-02-27,High,Open,Baghyawati Bora,0,Pneumatic
+SR137,AST078,Natt-Mitra,Drilling Machine,2025-12-07,Medium,Completed,Christopher Pradhan,11,Software
+SR138,AST025,Sama PLC,Welding Machine,2025-09-25,High,Completed,Hamsini Magar,16,Sensor
+SR139,AST060,"Handa, Agarwal and Mallick",Conveyor Belt,2026-02-24,Medium,Open,Atharv Prakash,0,Pneumatic
+SR140,AST081,"Dasgupta, Narayan and Kala",Lathe Machine,2025-07-03,Medium,Completed,David Contractor,14,Mechanical
+SR141,AST025,Bhalla-Lata,Conveyor Belt,2025-08-13,Medium,Open,Meera Baral,0,Structural
+SR142,AST039,Apte-Nadig,CNC Machine,2025-09-17,High,Completed,Daniel Mohan,15,Mechanical
+SR143,AST079,Prakash and Sons,Drilling Machine,2025-11-14,Medium,Completed,Samuel Madan,13,Hydraulic
+SR144,AST036,Vaidya and Sons,Robotic Arm,2026-04-03,Medium,In Progress,Tripti Saini,0,Mechanical
+SR145,AST014,"Bhakta, Ben and Merchant",Hydraulic Press,2025-09-10,High,Open,Samar Yadav,0,Mechanical
+SR146,AST008,Issac and Sons,Conveyor Belt,2025-12-15,High,Completed,Charvi Vig,4,Electrical
+SR147,AST078,Patil-Loyal,Hydraulic Press,2025-07-21,Medium,Open,Caleb Pandey,0,Electrical
+SR148,AST064,Kalla LLC,Robotic Arm,2026-06-03,Medium,Completed,Devika Borah,9,Hydraulic
+SR149,AST036,Pall-Dada,Hydraulic Press,2026-01-05,Medium,Open,Neel Salvi,0,Pneumatic
+SR150,AST077,"Manne, Mann and Chacko",Milling Machine,2025-09-02,Medium,Completed,Ojas Seshadri,25,Electrical
+SR151,AST032,De-Bera,Drilling Machine,2026-03-14,High,Completed,Turvi Krishna,14,Software
+SR152,AST007,Tripathi LLC,Conveyor Belt,2025-10-30,Low,Completed,Girish Mann,20,Hydraulic
+SR153,AST044,Amble-Bera,Lathe Machine,2025-07-16,Medium,Open,Gavin Venkatesh,0,Sensor
+SR154,AST041,Parikh LLC,CNC Machine,2026-01-11,High,Completed,Bimala Sama,7,Sensor
+SR155,AST036,Narang-Korpal,Lathe Machine,2025-07-20,Low,Completed,Nachiket Venkataraman,58,Electrical
+SR156,AST002,Golla LLC,Robotic Arm,2026-04-09,Low,In Progress,Eta Chakrabarti,0,Software
+SR157,AST033,"Kumar, Chand and Khosla",Conveyor Belt,2025-07-19,Medium,Completed,Vrishti Srinivas,23,Lubrication
+SR158,AST048,Garde Group,Welding Machine,2026-03-15,High,In Progress,Wakeeta Pillay,0,Sensor
+SR159,AST093,Merchant Inc,Welding Machine,2026-05-16,Medium,In Progress,Mohini Badami,0,Hydraulic
+SR160,AST083,"Wagle, Krishnamurthy and Baral",Hydraulic Press,2025-12-26,Medium,Completed,Yashodhara Parsa,14,Sensor
+SR161,AST070,Jain Inc,Conveyor Belt,2025-07-28,Medium,Completed,Vasatika Barman,16,Structural
+SR162,AST053,Pandit Group,Robotic Arm,2026-03-25,High,In Progress,Siya Wali,0,Electrical
+SR163,AST065,"Raman, Nori and Mahajan",Lathe Machine,2025-07-20,Medium,Open,Bhavna Nadkarni,0,Mechanical
+SR164,AST041,Radhakrishnan Inc,Welding Machine,2025-10-01,Low,Completed,Omisha Deshmukh,67,Hydraulic
+SR165,AST093,"Pingle, Char and Gera",CNC Machine,2025-11-13,High,In Progress,Nidra Rajan,0,Electrical
+SR166,AST013,Mohanty PLC,Conveyor Belt,2025-07-14,Medium,Completed,Bhavna Rama,10,Electrical
+SR167,AST002,"Sehgal, Vala and Dara",Drilling Machine,2025-12-09,Low,Completed,Balhaar Wable,29,Sensor
+SR168,AST088,"Saran, Sarkar and Behl",Hydraulic Press,2025-12-20,High,Completed,Chakrika Dora,6,Hydraulic
+SR169,AST060,Johal PLC,Milling Machine,2025-09-01,High,Completed,Zarna Balay,14,Hydraulic
+SR170,AST099,"Kuruvilla, Patel and Ravel",Hydraulic Press,2025-07-29,Medium,In Progress,Panini Parekh,0,Pneumatic
+SR171,AST027,"Mukherjee, Dugal and Bhatti",Milling Machine,2025-07-27,High,In Progress,Warjas Gandhi,0,Mechanical
+SR172,AST004,"Kashyap, Grewal and Bobal",Hydraulic Press,2026-04-28,High,Completed,Hiral Sarkar,13,Lubrication
+SR173,AST035,Dhar-Iyengar,Welding Machine,2025-08-02,Medium,In Progress,Jagat Samra,0,Mechanical
+SR174,AST033,"Comar, Kumer and Rau",Robotic Arm,2025-10-05,Medium,Completed,Yug Datta,14,Pneumatic
+SR175,AST099,Chowdhury-Sastry,Conveyor Belt,2026-06-04,Medium,Completed,Samaksh Kaur,17,Pneumatic
+SR176,AST047,Brahmbhatt Group,Robotic Arm,2026-01-25,Medium,Completed,Harshil Kalla,15,Electrical
+SR177,AST016,Upadhyay and Sons,CNC Machine,2025-07-06,Low,Completed,Wahab Dasgupta,64,Structural
+SR178,AST073,"Jaggi, Deol and Krishnan",Conveyor Belt,2025-12-20,Low,Open,Chasmum Bath,0,Hydraulic
+SR179,AST091,Prasad-Suresh,Robotic Arm,2026-04-12,Medium,Completed,Eiravati Munshi,16,Pneumatic
+SR180,AST005,Bala-Suresh,CNC Machine,2026-03-18,Medium,Completed,Waida Bala,15,Mechanical
+SR181,AST023,"Dada, Bhargava and Raju",CNC Machine,2025-11-22,Medium,In Progress,Geetika Talwar,0,Pneumatic
+SR182,AST004,Din-Rajagopal,Welding Machine,2025-06-29,Medium,Open,Madhavi Hari,0,Electrical
+SR183,AST030,Shroff-Sarin,Welding Machine,2026-04-24,Low,Completed,Lohit Ramaswamy,16,Lubrication
+SR184,AST029,"Samra, Keer and Sarraf",Hydraulic Press,2026-04-04,Low,Completed,Bhavika Dey,17,Mechanical
+SR185,AST027,Mital and Sons,Conveyor Belt,2025-07-19,Low,Open,Yochana Misra,0,Electrical
+SR186,AST056,Sandal-Sathe,Milling Machine,2025-07-05,Low,Completed,Vrishti Kadakia,25,Software
+SR187,AST024,"Narula, Mahajan and Bava",Welding Machine,2025-09-24,Low,Completed,Lajita Dara,19,Pneumatic
+SR188,AST037,"Pradhan, Nori and Sastry",CNC Machine,2026-06-07,Medium,Completed,Quincy Nanda,30,Lubrication
+SR189,AST078,Bawa-Jha,Milling Machine,2025-06-15,Low,Completed,Finn Edwin,28,Structural
+SR190,AST015,Chowdhury PLC,Robotic Arm,2026-05-29,High,Completed,Balveer Dugal,14,Structural
+SR191,AST087,Trivedi PLC,Welding Machine,2026-05-29,High,Completed,Jagdish Shetty,6,Structural
+SR192,AST060,"Solanki, Swaminathan and Kant",Lathe Machine,2026-04-22,Medium,Completed,Aadhya Tella,19,Electrical
+SR193,AST002,Goda PLC,Drilling Machine,2025-09-04,Medium,Completed,Warda Kala,30,Electrical
+SR194,AST085,"Garde, Sachdeva and Banik",Welding Machine,2026-03-30,Medium,Completed,Hardik Patla,18,Sensor
+SR195,AST080,Arya Group,Hydraulic Press,2025-07-12,High,Open,Shivani Aurora,0,Software
+SR196,AST076,"Deshpande, Grewal and Bail",Welding Machine,2026-01-10,Low,Completed,Gaurang Patla,45,Electrical
+SR197,AST039,Kala-Malhotra,Drilling Machine,2026-01-03,Medium,Open,Amara Kapur,0,Sensor
+SR198,AST021,Shroff-Thakur,Drilling Machine,2026-04-02,High,Open,Sneha Dyal,0,Mechanical
+SR199,AST076,Bhandari-Ramachandran,Milling Machine,2026-04-19,Low,Open,Inaya Mital,0,Software
+SR200,AST064,Talwar and Sons,Robotic Arm,2025-10-07,High,Completed,Aayush Pillai,2,Electrical
+SR201,AST036,Bobal-Bhatti,Hydraulic Press,2025-06-12,High,Completed,Balveer Grewal,9,Sensor
+SR202,AST067,"Mangal, Bath and Som",Robotic Arm,2025-06-07,Medium,Completed,Panini Wable,12,Pneumatic
+SR203,AST069,"Saxena, Virk and Chaudhari",Robotic Arm,2026-04-03,Medium,In Progress,Ladli Gupta,0,Hydraulic
+SR204,AST084,Bhandari-Konda,Conveyor Belt,2025-06-09,Medium,In Progress,Chanakya Kara,0,Mechanical
+SR205,AST063,"Jaggi, Nayar and Babu",Milling Machine,2025-06-20,High,In Progress,Chaman Seth,0,Pneumatic
+SR206,AST059,Khare-Shah,CNC Machine,2026-06-01,Low,Completed,Brinda Kannan,61,Pneumatic
+SR207,AST069,"Bhargava, Narasimhan and Deol",Drilling Machine,2025-07-19,Low,In Progress,Agastya Lal,0,Pneumatic
+SR208,AST023,"Tailor, Mammen and Bakshi",CNC Machine,2025-06-28,Medium,Completed,Unni Pant,24,Lubrication
+SR209,AST068,"Barman, Mammen and Mitra",Welding Machine,2025-08-29,Medium,Open,Max Bhandari,0,Pneumatic
+SR210,AST048,Kakar and Sons,Milling Machine,2026-03-07,Medium,In Progress,Nandini Borra,0,Hydraulic
+SR211,AST057,Krishnamurthy LLC,Conveyor Belt,2026-04-27,High,Completed,Advik Grover,8,Hydraulic
+SR212,AST100,Lata Ltd,CNC Machine,2025-09-03,High,Open,Nathaniel Bhargava,0,Structural
+SR213,AST030,Johal LLC,CNC Machine,2025-06-22,Medium,In Progress,Rohan Kaul,0,Sensor
+SR214,AST096,"Sant, Date and Nigam",Milling Machine,2025-10-18,Low,In Progress,Zansi Dixit,0,Electrical
+SR215,AST065,Sule Group,Welding Machine,2025-09-04,Low,Completed,Dalbir Patla,63,Sensor
+SR216,AST036,"Pradhan, Goyal and Biswas",CNC Machine,2025-10-17,Medium,Completed,Dev Oommen,34,Mechanical
+SR217,AST093,Basak Group,CNC Machine,2025-09-01,Medium,Open,Krishna Vaidya,0,Structural
+SR218,AST084,Comar-Buch,Welding Machine,2026-05-20,Medium,Completed,Lajita Rege,22,Lubrication
+SR219,AST052,"Deshpande, Dani and Morar",Hydraulic Press,2025-07-05,High,In Progress,Urishilla Pant,0,Mechanical
+SR220,AST100,Majumdar PLC,Milling Machine,2026-04-22,High,Completed,Vedika Raju,13,Mechanical
+SR221,AST057,Tella-Minhas,Drilling Machine,2026-04-04,High,Completed,Tamanna Mitter,3,Hydraulic
+SR222,AST096,"Sant, Guha and Dani",Conveyor Belt,2026-03-07,High,Completed,Unnati Brar,6,Lubrication
+SR223,AST070,"Kalla, Bhagat and Ben",CNC Machine,2026-01-31,Medium,Open,Luke Bhatia,0,Pneumatic
+SR224,AST049,Morar-Mutti,Conveyor Belt,2026-05-14,Medium,Completed,Jeevika Mammen,25,Sensor
+SR225,AST055,Nagy-Natarajan,Drilling Machine,2026-04-15,High,Completed,Avni Ramachandran,3,Mechanical
+SR226,AST049,Dave-Lala,Drilling Machine,2025-10-03,Low,Completed,Inaya Choudhry,64,Pneumatic
+SR227,AST010,Vohra-Varughese,Drilling Machine,2025-09-03,Low,In Progress,Oscar Srivastava,0,Pneumatic
+SR228,AST003,Sane-Balasubramanian,Hydraulic Press,2025-08-08,Medium,Completed,Kiaan Gara,26,Lubrication
+SR229,AST008,"Sane, Palan and Soni",CNC Machine,2026-02-21,Low,Completed,Dayamai Trivedi,57,Pneumatic
+SR230,AST058,Char-Bansal,Hydraulic Press,2025-11-04,Low,Open,Harita Dhar,0,Hydraulic
+SR231,AST069,Vala and Sons,Welding Machine,2026-02-15,Medium,In Progress,Frado Gade,0,Pneumatic
+SR232,AST075,Lal LLC,Hydraulic Press,2025-09-12,Medium,Completed,Charan Rege,27,Pneumatic
+SR233,AST070,Khare-Pandey,Robotic Arm,2025-08-12,Medium,Completed,Samar Swaminathan,14,Software
+SR234,AST067,Mukhopadhyay-Grewal,Milling Machine,2025-11-14,High,In Progress,William Wason,0,Mechanical
+SR235,AST065,"Dugal, Bhasin and Contractor",Welding Machine,2026-01-03,Low,Open,Indrajit Vasa,0,Structural
+SR236,AST072,Shanker-Merchant,Drilling Machine,2025-08-20,Medium,Open,Darpan Menon,0,Pneumatic
+SR237,AST005,Kade-Raj,CNC Machine,2026-01-12,Low,Completed,Bhavini Sridhar,63,Electrical
+SR238,AST051,"Dara, Guha and Bhargava",Drilling Machine,2025-07-20,Low,Completed,Yadavi Sarin,69,Sensor
+SR239,AST089,Krishna-Shukla,Robotic Arm,2026-04-02,Low,Completed,Forum Buch,18,Lubrication
+SR240,AST078,Ray PLC,Drilling Machine,2026-05-19,Low,Open,Vinaya Thakkar,0,Software
+SR241,AST024,Mall-Handa,Robotic Arm,2025-11-09,Medium,Open,Urishilla Ramachandran,0,Structural
+SR242,AST020,"Mohan, Upadhyay and Chhabra",CNC Machine,2025-09-30,Low,Completed,Wridesh Lal,43,Hydraulic
+SR243,AST012,Manne LLC,CNC Machine,2025-10-18,Low,Completed,Hemani Nath,31,Pneumatic
+SR244,AST022,Dewan-Nori,Welding Machine,2025-12-20,Medium,Completed,Forum Dalal,11,Electrical
+SR245,AST067,"Sood, Balan and Babu",Welding Machine,2026-03-08,Low,Completed,Chanchal Chakrabarti,35,Hydraulic
+SR246,AST039,"Dalal, Lanka and Sehgal",Conveyor Belt,2026-01-14,Medium,Completed,Balhaar Seshadri,12,Pneumatic
+SR247,AST044,"Wali, Jain and Master",CNC Machine,2025-11-01,Medium,Completed,Ira Tak,20,Pneumatic
+SR248,AST031,"Lata, Gandhi and Batta",Conveyor Belt,2025-07-14,High,Completed,Chanchal Patla,9,Software
+SR249,AST081,Sur-Desai,Conveyor Belt,2025-12-28,Low,Open,Kritika Das,0,Electrical
+SR250,AST017,Sehgal-Balakrishnan,Drilling Machine,2026-04-04,Medium,In Progress,Janya Jaggi,0,Structural
+SR251,AST082,Dugar LLC,Hydraulic Press,2025-06-29,Low,Completed,Ekiya Bains,49,Hydraulic
+SR252,AST007,Barad-Dhingra,Drilling Machine,2026-05-30,Low,Open,Chandran Virk,0,Lubrication
+SR253,AST004,Balan-Hayre,Robotic Arm,2025-12-21,Medium,Completed,Ikbal Mittal,29,Lubrication
+SR254,AST086,Kashyap-Bhavsar,Robotic Arm,2025-07-03,Low,Open,Zinal Jani,0,Electrical
+SR255,AST030,Chokshi-Kari,CNC Machine,2025-09-07,Low,Open,Mohini Ramanathan,0,Software
+SR256,AST013,"Prasad, Doshi and Varkey",Robotic Arm,2026-05-24,Medium,Completed,Gayathri Singhal,8,Mechanical
+SR257,AST084,Kapur-Ahuja,Hydraulic Press,2026-05-10,High,Completed,Hardik Sibal,3,Software
+SR258,AST030,Ganesan Group,Hydraulic Press,2025-08-22,Medium,Open,Thomas Lala,0,Structural
+SR259,AST031,Gandhi-Sundaram,Conveyor Belt,2025-06-15,High,Open,Atharv Parmer,0,Lubrication
+SR260,AST091,Garde-Choudhary,CNC Machine,2026-02-27,Low,Completed,Omya Lalla,63,Pneumatic
+SR261,AST063,Madan and Sons,Hydraulic Press,2026-05-17,Medium,Open,Anvi Karan,0,Mechanical
+SR262,AST045,Sangha-Nigam,Robotic Arm,2025-09-16,Medium,Completed,Hritik Som,36,Mechanical
+SR263,AST045,"Rana, Randhawa and Pau",Conveyor Belt,2026-06-02,Medium,Completed,Reva Kaur,13,Hydraulic
+SR264,AST010,"Chhabra, Desai and Gokhale",Welding Machine,2025-08-27,High,Open,Krishna Sarma,0,Sensor
+SR265,AST090,"Bhavsar, Sehgal and Nazareth",Robotic Arm,2026-01-03,Medium,Completed,Chandresh Sathe,11,Mechanical
+SR266,AST017,Shukla-Sidhu,Drilling Machine,2025-12-24,Medium,Completed,Balvan Nath,34,Sensor
+SR267,AST040,Halder PLC,Hydraulic Press,2026-04-12,Low,Completed,Karan Chandran,16,Electrical
+SR268,AST039,Rout Group,Conveyor Belt,2026-03-19,Medium,In Progress,Priya Aurora,0,Software
+SR269,AST018,Sampath-Sundaram,CNC Machine,2025-08-16,Medium,In Progress,Baljiwan Kurian,0,Pneumatic
+SR270,AST045,Randhawa-Purohit,CNC Machine,2026-04-17,Medium,Completed,Rachana Tara,24,Electrical
+SR271,AST058,"De, Dhar and Iyengar",Hydraulic Press,2025-09-23,High,Completed,Neha Oommen,5,Electrical
+SR272,AST016,Pandey-Datta,Drilling Machine,2026-03-24,Medium,Open,Upkaar Ahluwalia,0,Software
+SR273,AST092,Bumb Group,Welding Machine,2025-10-25,Medium,Completed,Hemani Sethi,13,Hydraulic
+SR274,AST059,Dutta LLC,Conveyor Belt,2025-06-12,Medium,Completed,Vyanjana Dhingra,34,Electrical
+SR275,AST059,Raja-Wadhwa,Welding Machine,2025-11-03,High,Completed,Aadi Bhalla,5,Sensor
+SR276,AST076,"Magar, Mann and Vora",Milling Machine,2025-11-27,High,Open,Yoshita Toor,0,Electrical
+SR277,AST055,Goel-Subramaniam,Welding Machine,2025-09-26,Medium,Completed,Sneha Peri,25,Sensor
+SR278,AST039,Upadhyay-Sule,Welding Machine,2025-06-18,Medium,Completed,Avi Yadav,22,Electrical
+SR279,AST025,"Murty, Raju and Tara",Conveyor Belt,2026-03-04,Medium,In Progress,Xavier Brar,0,Lubrication
+SR280,AST003,"Sandal, Date and Bedi",CNC Machine,2026-02-17,Low,Open,Bhavna Buch,0,Software
+SR281,AST017,Gill-Srinivas,Welding Machine,2026-02-24,High,In Progress,Xiti Sandal,0,Software
+SR282,AST001,Chaudhry LLC,CNC Machine,2025-06-28,Medium,Open,Edhitha D’Alia,0,Structural
+SR283,AST091,Chatterjee-Ray,CNC Machine,2025-09-21,Low,Completed,Jagrati Dara,63,Pneumatic
+SR284,AST053,"Chakrabarti, Chakraborty and Chad",CNC Machine,2026-03-02,Medium,Completed,Ronith Karpe,15,Software
+SR285,AST059,Dasgupta-Sarma,Drilling Machine,2025-10-19,Low,In Progress,Barkha Peri,0,Mechanical
+SR286,AST063,Rana-Banerjee,Milling Machine,2026-04-28,High,Open,Onveer Balay,0,Software
+SR287,AST027,Suresh Inc,Hydraulic Press,2026-02-26,Low,In Progress,Henry Bobal,0,Electrical
+SR288,AST005,Oza Inc,Milling Machine,2025-09-14,High,Completed,Lila D’Alia,11,Mechanical
+SR289,AST031,Salvi Ltd,Lathe Machine,2025-11-28,Medium,Completed,Yadavi Buch,24,Pneumatic
+SR290,AST084,"Bhat, Mand and Bedi",Welding Machine,2026-01-31,High,In Progress,Hredhaan Chowdhury,0,Structural
+SR291,AST068,Patla Ltd,Welding Machine,2026-05-19,Low,Open,Nandini Dhillon,0,Lubrication
+SR292,AST006,Sridhar-Golla,Hydraulic Press,2026-03-05,Medium,In Progress,Krishna Patel,0,Software
+SR293,AST035,"Narang, Nair and Pathak",Drilling Machine,2026-01-25,Low,Completed,Saanvi Tank,68,Lubrication
+SR294,AST067,"Gera, Parekh and Garg",Hydraulic Press,2025-08-01,Medium,Completed,Lakshit Ram,20,Lubrication
+SR295,AST019,Sani Ltd,Conveyor Belt,2025-08-04,Medium,Completed,Siddharth Andra,33,Sensor
+SR296,AST046,Gokhale Group,Welding Machine,2026-04-16,Medium,In Progress,Sanya Narang,0,Hydraulic
+SR297,AST029,Sami-Pandit,Drilling Machine,2026-05-26,High,Open,Chavvi Bava,0,Structural
+SR298,AST095,"Patla, Nair and Anne",Robotic Arm,2026-04-29,High,Completed,Ladli Shenoy,2,Pneumatic
+SR299,AST058,Lalla-Sarraf,Conveyor Belt,2025-11-06,Low,Completed,Tanmayi Kala,71,Electrical
+SR300,AST025,Chaudhry Inc,Hydraulic Press,2026-05-02,Medium,Open,Hitesh Parsa,0,Structural
+SR301,AST005,Narain Inc,Drilling Machine,2025-12-08,Medium,Completed,Azad Om,26,Sensor
+SR302,AST076,Menon-Dubey,CNC Machine,2026-03-27,High,Completed,Nirja Banik,4,Hydraulic
+SR303,AST067,Sarna-Raman,CNC Machine,2025-10-29,Medium,Completed,Advaith Ganesan,32,Structural
+SR304,AST083,Kunda Inc,Drilling Machine,2025-11-11,Low,Open,Pranit Jhaveri,0,Mechanical
+SR305,AST037,Sarraf PLC,Milling Machine,2025-11-20,Medium,Completed,Benjamin Khurana,24,Hydraulic
+SR306,AST054,"Din, Narang and Sharma",Lathe Machine,2025-11-24,Medium,Completed,Onkar Sharma,30,Sensor
+SR307,AST002,"Choudhry, Dash and Balan",Hydraulic Press,2025-10-11,Low,Completed,Kabir Nori,42,Software
+SR308,AST056,Rattan Group,Hydraulic Press,2025-08-17,High,Completed,Raksha Gole,4,Sensor
+SR309,AST015,"Keer, Kadakia and Prasad",CNC Machine,2026-04-24,Medium,In Progress,Yashodhara Kari,0,Electrical
+SR310,AST080,Parsa-Char,Milling Machine,2025-11-19,Low,Completed,Pranit Wadhwa,33,Software
+SR311,AST054,"Johal, Munshi and Baral",Drilling Machine,2025-06-24,Medium,Completed,Chakradev Lanka,34,Structural
+SR312,AST006,Sama-Dutt,Robotic Arm,2025-11-28,Low,In Progress,Onveer Bhattacharyya,0,Software
+SR313,AST065,Samra-Edwin,Lathe Machine,2026-04-16,High,Completed,Yuvraj Mannan,5,Structural
+SR314,AST013,"Merchant, Mane and Agate",Welding Machine,2026-04-19,High,Completed,Indrajit Cheema,10,Electrical
+SR315,AST076,"Chaudhuri, Maharaj and More",Welding Machine,2025-11-14,High,Completed,Chaaya Loke,11,Sensor
+SR316,AST053,"Lala, Raghavan and Bhatia",Robotic Arm,2026-01-19,High,Open,Vrishti Samra,0,Lubrication
+SR317,AST041,Master Ltd,Lathe Machine,2025-10-15,Low,Completed,Veer Doctor,23,Structural
+SR318,AST064,"De, Mutti and Choudhry",Robotic Arm,2026-03-24,Medium,Open,Falan Mutti,0,Hydraulic
+SR319,AST041,Gupta-Lal,Lathe Machine,2025-06-09,Medium,In Progress,Dalbir Radhakrishnan,0,Pneumatic
+SR320,AST065,"Shah, Uppal and Salvi",CNC Machine,2025-11-11,High,In Progress,Ijaya Nagy,0,Hydraulic
+SR321,AST059,Gokhale-Kurian,Milling Machine,2026-05-31,High,Completed,Lekha Ranganathan,2,Sensor
+SR322,AST055,"Das, Prabhakar and Arora",Welding Machine,2025-09-05,Low,Completed,Darpan Kulkarni,57,Software
+SR323,AST070,Ahuja Group,Lathe Machine,2025-12-16,Low,Open,Arjun Palla,0,Lubrication
+SR324,AST018,Bava Ltd,Conveyor Belt,2025-06-21,High,Open,Bhanumati Sastry,0,Mechanical
+SR325,AST021,"Bhatia, Bahl and Dhawan",CNC Machine,2026-02-22,Medium,In Progress,Peter Comar,0,Software
+SR326,AST086,Bawa LLC,Milling Machine,2026-01-02,Low,Open,Manthan Manne,0,Pneumatic
+SR327,AST051,Nayar Inc,CNC Machine,2026-03-16,Medium,Completed,Jeevika Dube,32,Lubrication
+SR328,AST082,Hayre-Chanda,Robotic Arm,2025-11-18,Medium,Open,Dipta Sule,0,Electrical
+SR329,AST063,"Ben, Master and Varughese",Drilling Machine,2025-07-02,High,Open,Vritti Sarkar,0,Structural
+SR330,AST091,Rau-Kibe,Hydraulic Press,2025-09-15,High,Completed,Bhavna Krishnan,6,Lubrication
+SR331,AST078,Chatterjee-Khanna,Lathe Machine,2025-09-06,Medium,In Progress,Aadi Reddy,0,Structural
+SR332,AST071,"Bava, Dubey and Chadha",Lathe Machine,2025-07-15,High,In Progress,Yauvani Varughese,0,Electrical
+SR333,AST063,Sarraf-Batra,Milling Machine,2025-10-27,Low,Open,Nihal Nayak,0,Electrical
+SR334,AST032,Kothari PLC,Conveyor Belt,2025-07-03,High,Completed,Gaurangi Tailor,2,Lubrication
+SR335,AST062,"Lala, Contractor and Gour",CNC Machine,2025-06-25,High,Completed,Anita Banerjee,12,Sensor
+SR336,AST028,Mohanty-Sathe,Robotic Arm,2025-11-06,Medium,Open,Samesh Dhar,0,Software
+SR337,AST027,Sarraf Group,Lathe Machine,2026-05-08,Medium,In Progress,Ethan Dixit,0,Structural
+SR338,AST093,"Datta, Prakash and Dhillon",Conveyor Belt,2025-12-23,High,Open,Samesh Hayer,0,Hydraulic
+SR339,AST043,Gulati Inc,Hydraulic Press,2026-01-02,Medium,In Progress,Henry Balasubramanian,0,Sensor
+SR340,AST001,"Mangal, Reddy and Saini",Drilling Machine,2026-02-01,High,Completed,Warhi Kari,5,Hydraulic
+SR341,AST084,Nagarajan Ltd,Hydraulic Press,2025-07-04,Low,Open,Qarin Patil,0,Pneumatic
+SR342,AST022,Sibal-Choudhury,Hydraulic Press,2025-10-12,Medium,Completed,Gaurika Raman,29,Hydraulic
+SR343,AST077,Nath and Sons,Robotic Arm,2026-01-22,High,Completed,Ekalinga Sur,12,Lubrication
+SR344,AST094,"Prakash, Dhaliwal and Parmer",Conveyor Belt,2025-08-30,Medium,In Progress,Benjamin Yadav,0,Electrical
+SR345,AST011,"Varma, Bora and Morar",CNC Machine,2025-07-29,Medium,Completed,Ijaya Nagar,26,Mechanical
+SR346,AST054,Bansal LLC,Hydraulic Press,2025-11-25,Low,Completed,Arjun Thakkar,28,Pneumatic
+SR347,AST060,D’Alia Group,CNC Machine,2025-09-14,Medium,Open,Zinal Krishnan,0,Software
+SR348,AST024,"Srivastava, Dhillon and Rao",Milling Machine,2026-06-02,High,Completed,Nimrat Baria,12,Structural
+SR349,AST066,Palla and Sons,Robotic Arm,2026-01-18,High,Open,Aadhya Khanna,0,Lubrication
+SR350,AST068,Mangat Group,Conveyor Belt,2025-12-27,High,Open,Aarna Buch,0,Hydraulic
+SR351,AST094,Mand PLC,Conveyor Belt,2026-01-05,Low,Completed,Sneha Bal,69,Hydraulic
+SR352,AST100,Kashyap-Doshi,Welding Machine,2026-05-18,Medium,Completed,Unni Randhawa,23,Structural
+SR353,AST087,"Sekhon, Sur and Tripathi",Robotic Arm,2026-01-06,Low,Completed,Ekansh Sinha,26,Sensor
+SR354,AST046,"Yogi, Raghavan and Bhakta",Conveyor Belt,2026-02-08,Medium,In Progress,Ira Jain,0,Structural
+SR355,AST090,Bhakta-Manda,Lathe Machine,2025-10-28,Medium,Completed,Vasana Sachdeva,21,Structural
+SR356,AST007,Dyal-Barad,Milling Machine,2026-03-20,Medium,In Progress,Oscar Kara,0,Pneumatic
+SR357,AST069,Malhotra Inc,CNC Machine,2025-09-02,High,In Progress,Yatin Barad,0,Mechanical
+SR358,AST030,"Varma, Dhawan and Ahuja",Milling Machine,2026-01-26,High,Open,Anya Gera,0,Mechanical
+SR359,AST076,Nadig-Chana,Welding Machine,2025-07-29,Low,Completed,Hema Natarajan,53,Mechanical
+SR360,AST015,Tailor-Rastogi,Drilling Machine,2026-02-04,Medium,Completed,Udarsh Mani,11,Pneumatic
+SR361,AST072,"Mutti, Korpal and Sant",Robotic Arm,2025-09-08,High,Completed,Saanvi Ahluwalia,10,Pneumatic
+SR362,AST023,"Ravi, Pandey and Gokhale",Robotic Arm,2025-08-12,Medium,In Progress,Bhavani Pant,0,Pneumatic
+SR363,AST013,Saraf Inc,CNC Machine,2026-02-22,Medium,Open,Oscar Sunder,0,Software
+SR364,AST057,Nagy Group,Welding Machine,2025-07-10,Low,Completed,Chanakya Nair,57,Software
+SR365,AST035,"Viswanathan, Devi and Nazareth",Welding Machine,2026-05-02,Low,Completed,Qabil Doshi,28,Electrical
+SR366,AST074,Kara Group,CNC Machine,2025-12-15,High,Open,Bhavya Dass,0,Electrical
+SR367,AST024,Korpal-Warrior,Milling Machine,2026-01-23,High,Completed,Fiyaz Apte,4,Structural
+SR368,AST095,Som Inc,Drilling Machine,2025-11-04,High,Open,Warda Ravel,0,Structural
+SR369,AST095,"Solanki, Saran and Sur",CNC Machine,2025-06-29,Medium,In Progress,Nidhi Rout,0,Structural
+SR370,AST078,Mitter-Sampath,Milling Machine,2026-02-06,Medium,Completed,Warjas Sengupta,11,Lubrication
+SR371,AST079,Saran Ltd,Milling Machine,2025-08-02,Medium,Completed,Matthew Ahuja,31,Mechanical
+SR372,AST061,"Kamdar, Malhotra and Virk",Conveyor Belt,2025-10-21,Low,Open,Atharv Narang,0,Sensor
+SR373,AST088,"Wable, Mahajan and Guha",Conveyor Belt,2026-04-04,High,Completed,Edhitha Shah,6,Sensor
+SR374,AST088,Garg-Saini,Robotic Arm,2026-04-28,Medium,Open,Jagvi Bahri,0,Lubrication
+SR375,AST073,"Bail, Goel and Shanker",Lathe Machine,2025-07-23,High,Completed,Aadi Menon,10,Pneumatic
+SR376,AST007,Deo Ltd,Conveyor Belt,2025-11-30,High,In Progress,Bakhshi Chaudhry,0,Electrical
+SR377,AST017,"Pillay, Comar and Sharma",CNC Machine,2025-07-29,Medium,In Progress,Atharv Cherian,0,Mechanical
+SR378,AST003,"Pandya, Raghavan and Vyas",Conveyor Belt,2026-03-04,Low,Completed,Vrinda Sankar,48,Structural
+SR379,AST049,Pandey PLC,Hydraulic Press,2025-08-22,High,Completed,Chaitanya Kade,8,Pneumatic
+SR380,AST018,"Iyer, Ravel and Handa",Lathe Machine,2025-10-02,Medium,In Progress,Faqid Swamy,0,Electrical
+SR381,AST025,"Nayar, Sibal and Baria",Hydraulic Press,2026-05-09,High,Completed,Pranav Bhalla,12,Structural
+SR382,AST058,Gole-Kunda,Welding Machine,2025-07-03,Medium,Completed,Dayita Mitra,23,Pneumatic
+SR383,AST008,Bali Group,CNC Machine,2026-02-27,Low,Open,Warda Ahluwalia,0,Software
+SR384,AST088,Sastry-Ganesan,Conveyor Belt,2026-02-22,Medium,In Progress,Varsha Jain,0,Mechanical
+SR385,AST025,"Wali, Madan and Bhasin",Drilling Machine,2025-07-03,Low,In Progress,Falak Dube,0,Structural
+SR386,AST061,Manne LLC,CNC Machine,2026-03-04,Low,Open,Dakshesh Jain,0,Sensor
+SR387,AST033,Chaudhuri-Bala,Welding Machine,2026-02-14,Medium,In Progress,Viraj Chaudry,0,Pneumatic
+SR388,AST092,Bhandari-Borde,Robotic Arm,2026-02-10,High,In Progress,Orinder Wali,0,Pneumatic
+SR389,AST068,Sachar and Sons,Drilling Machine,2025-11-15,High,Completed,Nidhi Amble,11,Electrical
+SR390,AST058,Bhargava Group,CNC Machine,2026-05-04,Low,Open,Chavvi Mittal,0,Software
+SR391,AST005,Sha-Chatterjee,Drilling Machine,2025-12-08,High,Completed,Kashvi Randhawa,8,Pneumatic
+SR392,AST092,"Bhatti, Raghavan and Bansal",Welding Machine,2026-05-18,Low,Completed,Wyatt Nadkarni,18,Sensor
+SR393,AST090,Sawhney-Gera,Lathe Machine,2026-05-15,Medium,In Progress,Watika Kata,0,Structural
+SR394,AST027,"Kakar, Agrawal and Mangat",CNC Machine,2025-09-08,Low,Completed,Chaitanya Bhatti,22,Mechanical
+SR395,AST075,Samra-Parmar,Robotic Arm,2025-12-10,High,Completed,Harish Basak,16,Lubrication
+SR396,AST046,Sunder-Muni,Welding Machine,2025-12-21,Low,Open,Aarini Mani,0,Mechanical
+SR397,AST008,"Walia, Memon and Seth",Welding Machine,2026-04-02,Medium,Open,Kashvi Bains,0,Pneumatic
+SR398,AST007,"Bhalla, Gopal and Bhatti",Lathe Machine,2025-10-28,Low,In Progress,Januja Iyer,0,Sensor
+SR399,AST096,Taneja-Thakkar,Lathe Machine,2026-05-27,High,Completed,Hemani Reddy,7,Software
+SR400,AST055,De-Aurora,Hydraulic Press,2025-11-04,Low,Completed,Sara Karan,51,Sensor
+SR401,AST076,Mitter-Kumar,Robotic Arm,2025-08-08,Medium,Open,Riya Bhalla,0,Lubrication
+SR402,AST096,Rana-Desai,Robotic Arm,2026-02-18,Medium,In Progress,Manbir Sandal,0,Sensor
+SR403,AST065,Thaker LLC,CNC Machine,2026-05-14,Low,In Progress,Urmi Batta,0,Electrical
+SR404,AST036,Dhillon and Sons,CNC Machine,2025-12-31,Low,Open,Bahadurjit Vasa,0,Pneumatic
+SR405,AST022,Bera-Pal,Hydraulic Press,2025-11-28,Low,Completed,Ganga Kar,23,Software
+SR406,AST015,Bhardwaj-Babu,Drilling Machine,2026-04-15,Low,In Progress,Krishna Sem,0,Sensor
+SR407,AST044,Narayanan-Shetty,Lathe Machine,2025-06-07,Medium,Completed,Oliver Ghosh,29,Pneumatic
+SR408,AST049,Ramanathan Group,Hydraulic Press,2026-06-01,High,Open,Harish Gaba,0,Hydraulic
+SR409,AST060,"Dubey, Minhas and Wadhwa",Robotic Arm,2025-11-24,Medium,Completed,Abhiram Vaidya,14,Software
+SR410,AST011,Narayanan LLC,Hydraulic Press,2025-07-28,Medium,Completed,Dhruv Talwar,16,Pneumatic
+SR411,AST095,"Chakraborty, Kaur and Devi",Conveyor Belt,2026-04-15,Medium,Completed,Pooja Gade,18,Sensor
+SR412,AST021,Dash and Sons,Lathe Machine,2026-04-29,Low,Completed,Arin Bir,28,Hydraulic
+SR413,AST050,Patla-Modi,Hydraulic Press,2025-09-11,Low,Open,Samuel Jani,0,Pneumatic
+SR414,AST074,Bora-Seth,Conveyor Belt,2025-07-24,Low,Completed,Anita Chandran,55,Software
+SR415,AST005,Soman Ltd,Lathe Machine,2025-09-08,Low,Completed,Samar Nanda,48,Structural
+SR416,AST017,"Guha, Varghese and Agarwal",Milling Machine,2026-04-24,High,Completed,Arjun Guha,3,Mechanical
+SR417,AST080,Iyer-Chaudhuri,Welding Machine,2025-06-13,Low,Completed,Lajita Din,28,Hydraulic
+SR418,AST085,"Sani, Hayre and Golla",Robotic Arm,2026-04-15,High,Open,Anmol Shere,0,Lubrication
+SR419,AST041,Dayal-Deshpande,Robotic Arm,2026-04-18,Medium,Completed,Aarini Kalla,27,Structural
+SR420,AST004,Sidhu-Bhagat,Milling Machine,2026-01-25,Medium,Completed,Indali Nazareth,14,Hydraulic
+SR421,AST081,"Mani, Ramesh and Arora",Drilling Machine,2026-02-13,Medium,Completed,Tripti Sethi,36,Software
+SR422,AST074,Balay-Prashad,Conveyor Belt,2025-11-11,Medium,In Progress,Meghana Sachdev,0,Structural
+SR423,AST026,Rastogi LLC,Lathe Machine,2025-09-28,Medium,In Progress,Hardik Dhillon,0,Structural
+SR424,AST028,Lanka-Shetty,Robotic Arm,2026-02-15,High,Completed,Neelima Deo,9,Hydraulic
+SR425,AST007,"Sunder, Dhingra and Goel",Drilling Machine,2025-09-29,Low,Completed,Lipika Chopra,64,Electrical
+SR426,AST064,"Sami, Rama and Dey",Lathe Machine,2026-02-27,Medium,Completed,Indrajit Sastry,28,Pneumatic
+SR427,AST070,Basu Ltd,Robotic Arm,2025-09-05,Low,In Progress,Ekbal Samra,0,Hydraulic
+SR428,AST048,"Sanghvi, Date and Dhar",Milling Machine,2026-03-23,High,Completed,Jagdish Kuruvilla,12,Lubrication
+SR429,AST026,Rout PLC,Welding Machine,2026-05-15,Medium,Open,Raagini Wali,0,Sensor
+SR430,AST089,Patil PLC,Conveyor Belt,2025-07-05,Medium,Completed,Yashvi Rama,23,Mechanical
+SR431,AST083,Dewan-Hari,Hydraulic Press,2026-01-27,High,Completed,Arya Karnik,13,Structural
+SR432,AST079,Ravi-Pradhan,Robotic Arm,2026-01-09,Medium,Completed,Triveni Batra,15,Electrical
+SR433,AST093,Chopra-Ghose,Lathe Machine,2026-02-23,Low,Open,Kamya Ghosh,0,Hydraulic
+SR434,AST021,Bhatt-Palla,CNC Machine,2025-12-30,Medium,Completed,Hiral Talwar,23,Pneumatic
+SR435,AST095,"Bassi, Mall and Sachar",Milling Machine,2025-09-06,Low,Open,Girindra Nair,0,Hydraulic
+SR436,AST085,Gour and Sons,Conveyor Belt,2025-12-27,Medium,Open,Pranit Walla,0,Lubrication
+SR437,AST026,"Prakash, Vig and Grewal",Hydraulic Press,2026-05-23,Medium,In Progress,Manan Sarraf,0,Lubrication
+SR438,AST088,Sandal Inc,Conveyor Belt,2026-04-25,Low,In Progress,Lakshmi Suresh,0,Hydraulic
+SR439,AST053,"Chadha, Rao and Zachariah",Hydraulic Press,2025-11-11,Low,Open,Raagini Murthy,0,Sensor
+SR440,AST026,Sankaran Inc,Drilling Machine,2025-07-13,Low,Completed,Amrita Wable,59,Pneumatic
+SR441,AST014,Panchal-Chandra,Lathe Machine,2025-12-01,High,Open,Aachal Saran,0,Electrical
+SR442,AST060,"Sehgal, Bhalla and Goel",Robotic Arm,2026-04-11,Low,In Progress,Laban Pandey,0,Mechanical
+SR443,AST006,Varghese Ltd,Lathe Machine,2025-10-13,High,Open,Agastya D’Alia,0,Electrical
+SR444,AST056,Dutta PLC,CNC Machine,2026-02-13,Low,Completed,Anmol Khosla,56,Mechanical
+SR445,AST057,Bora-Vora,Lathe Machine,2026-02-14,High,Completed,Wridesh Apte,14,Lubrication
+SR446,AST014,"Shanker, Anne and Dash",Lathe Machine,2025-12-25,Low,Completed,Warjas Divan,36,Lubrication
+SR447,AST004,"Loke, Sibal and Gala",Lathe Machine,2025-11-24,High,Completed,Ryan Sheth,16,Mechanical
+SR448,AST087,"Srinivasan, Anne and Sagar",Milling Machine,2025-10-20,Medium,In Progress,Pooja Jhaveri,0,Sensor
+SR449,AST080,Devi PLC,Lathe Machine,2025-12-18,Medium,Open,Zarna Rastogi,0,Software
+SR450,AST089,"Dasgupta, Shanker and Balan",Hydraulic Press,2025-11-14,Low,Completed,Faqid Bumb,26,Electrical
+SR451,AST061,Bains-Sathe,Milling Machine,2025-10-12,High,Open,Jairaj Sankar,0,Sensor
+SR452,AST058,"Khanna, Rout and Mand",Welding Machine,2026-04-07,Medium,In Progress,Mohammed Karpe,0,Electrical
+SR453,AST093,Sridhar-Dasgupta,Welding Machine,2025-08-12,High,In Progress,Avni Kala,0,Electrical
+SR454,AST020,Vohra Group,Hydraulic Press,2025-08-04,Low,Completed,Darika Goyal,51,Sensor
+SR455,AST057,"Bhatia, Solanki and Choudhary",Milling Machine,2025-09-04,Medium,Open,Harsh Chaudhry,0,Structural
+SR456,AST008,"Babu, Bajaj and Venkataraman",CNC Machine,2025-10-20,High,Open,Arunima Mukherjee,0,Sensor
+SR457,AST054,"Dar, Bhatt and Choudhry",Conveyor Belt,2026-01-01,Low,Open,Gopal Mannan,0,Electrical
+SR458,AST041,"Padmanabhan, Nagy and Date",Lathe Machine,2025-08-13,Medium,Completed,Dhruv Barad,14,Sensor
+SR459,AST009,Raghavan Group,Lathe Machine,2026-01-02,Medium,Completed,Yug Mohanty,13,Hydraulic
+SR460,AST039,Toor-Rout,Lathe Machine,2025-08-26,High,In Progress,Kashish Johal,0,Structural
+SR461,AST026,Dass and Sons,Robotic Arm,2025-10-13,Medium,Completed,Ronith Barad,12,Pneumatic
+SR462,AST004,Halder-Ravel,Welding Machine,2026-03-10,High,Open,Lakshmi Sur,0,Structural
+SR463,AST024,"Bhalla, Shankar and Jaggi",Robotic Arm,2025-10-05,Low,Open,Yochana Kata,0,Sensor
+SR464,AST062,"Raja, Srinivasan and Bir",Hydraulic Press,2025-07-26,Low,Completed,Geetika Konda,49,Software
+SR465,AST071,Borah-Gandhi,Robotic Arm,2025-07-08,High,Open,Raksha Ravi,0,Sensor
+SR466,AST031,"Sami, Desai and Pau",Robotic Arm,2026-02-19,Medium,Completed,Omaja Trivedi,18,Sensor
+SR467,AST020,"Dar, Mand and Amble",Welding Machine,2025-12-09,High,In Progress,Prisha Sami,0,Pneumatic
+SR468,AST079,"Sodhi, Saran and Talwar",Welding Machine,2026-04-13,Medium,Completed,Sarthak Ramaswamy,32,Electrical
+SR469,AST092,Munshi LLC,Lathe Machine,2026-05-18,Medium,Completed,Upadhriti Shere,10,Hydraulic
+SR470,AST073,Devi PLC,Hydraulic Press,2026-05-02,High,Completed,Gopal Chand,15,Hydraulic
+SR471,AST073,"Vasa, Devan and Kuruvilla",CNC Machine,2026-01-09,High,Open,Jack Hans,0,Sensor
+SR472,AST002,"Magar, Kapur and Sehgal",Robotic Arm,2026-05-14,High,Completed,Anita Keer,4,Lubrication
+SR473,AST050,Balan Ltd,Lathe Machine,2025-10-17,Medium,Completed,Varenya Nigam,21,Lubrication
+SR474,AST065,"Barad, Arya and Shanker",Robotic Arm,2026-04-05,Low,Open,Michael Gupta,0,Structural
+SR475,AST050,Khanna PLC,Milling Machine,2025-06-16,High,Completed,Gauri Sehgal,9,Mechanical
+SR476,AST005,Ahluwalia LLC,Drilling Machine,2025-08-24,High,In Progress,Shivansh Sami,0,Software
+SR477,AST075,Nath-Baral,Drilling Machine,2026-02-10,Low,Completed,Vedhika Edwin,69,Structural
+SR478,AST096,Shah PLC,Welding Machine,2025-09-22,Medium,Completed,Yashasvi Magar,20,Pneumatic
+SR479,AST036,Seth-Chopra,Hydraulic Press,2025-06-30,High,Completed,Shivansh More,6,Hydraulic
+SR480,AST079,"Bhakta, Thakkar and Panchal",Robotic Arm,2025-10-10,Low,Completed,Arunima Apte,44,Structural
+SR481,AST094,Sant-Pillai,Welding Machine,2026-02-20,Low,Completed,Abdul Malhotra,69,Mechanical
+SR482,AST015,"Shere, Mitra and Sundaram",Robotic Arm,2026-03-31,Medium,Completed,Saanvi Zachariah,24,Lubrication
+SR483,AST032,"Palan, Barad and Upadhyay",Milling Machine,2025-10-31,High,Completed,Amol Issac,15,Software
+SR484,AST063,Mane PLC,Conveyor Belt,2026-05-18,High,Open,Diya Bora,0,Structural
+SR485,AST094,Raghavan-Sood,Welding Machine,2025-07-31,High,Open,Faqid Seth,0,Electrical
+SR486,AST026,Rau-Warrior,Welding Machine,2026-02-14,Medium,Completed,Anusha Kuruvilla,16,Structural
+SR487,AST002,Sunder-Sen,Drilling Machine,2025-12-12,High,Completed,Yauvani Dugal,10,Lubrication
+SR488,AST071,"Pau, Gokhale and Bakshi",Conveyor Belt,2026-04-26,Medium,Open,Robert Dave,0,Mechanical
+SR489,AST036,"Badal, Andra and Suri",Lathe Machine,2025-08-10,High,Completed,Kamala Vasa,16,Sensor
+SR490,AST050,Dasgupta-Zachariah,Drilling Machine,2026-02-10,Medium,Completed,Amara Sekhon,17,Mechanical
+SR491,AST081,Khare-Sura,Welding Machine,2025-12-13,Medium,In Progress,Siddharth Trivedi,0,Electrical
+SR492,AST031,Goel Group,CNC Machine,2025-06-17,Medium,Completed,Vansha Palla,29,Structural
+SR493,AST094,"Vasa, Lalla and Mahajan",Drilling Machine,2025-12-09,High,Open,Mason Sehgal,0,Electrical
+SR494,AST099,Wali-Halder,Robotic Arm,2026-05-26,Medium,Completed,Tamanna Comar,13,Mechanical
+SR495,AST098,Misra-Shanker,Robotic Arm,2025-11-22,High,Completed,Yochana Wali,11,Electrical
+SR496,AST076,Bhagat-Varkey,Drilling Machine,2025-12-02,Medium,Completed,Bhavini Garg,11,Lubrication
+SR497,AST013,Raja Inc,Robotic Arm,2026-01-16,High,Completed,Mason Varma,9,Software
+SR498,AST082,"Sangha, Nigam and Misra",Drilling Machine,2025-12-14,Low,Completed,Raagini Sarraf,38,Pneumatic
+SR499,AST048,"Kuruvilla, Pall and Joshi",Milling Machine,2025-11-02,Medium,Open,Tanveer Jha,0,Pneumatic
+SR500,AST064,Krishnamurthy-Rege,Robotic Arm,2025-09-30,High,Open,Girindra Lanka,0,Structural
